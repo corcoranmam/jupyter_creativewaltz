@@ -1,0 +1,7 @@
+plexExportCSV_config.py
+movies*.csv
+__pycache__
+venv
+.idea
+.DS_Store
+images
